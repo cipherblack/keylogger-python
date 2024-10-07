@@ -1,0 +1,5 @@
+keyboard
+requests
+socket
+ctypes
+pywin32
