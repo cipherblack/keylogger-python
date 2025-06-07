@@ -10,4 +10,4 @@ We do not take any responsibility for any damages, issues, or losses that may oc
 
 In case of any issues, bugs, or problems, feel free to reach out for support. You can contact us via Telegram:
 
-[Telegram Contact](https://t.me/cipher_black) --> @cipher_black
+[Telegram Contact](https://t.me/deviloer) --> @deviloer
